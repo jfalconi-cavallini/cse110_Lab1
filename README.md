@@ -35,7 +35,21 @@ StackBase Calculator:
 8. Mathematics for Algorithms and Systems
 
 *Skills:*
-Assembly, Atom, BlueJ, C, C++, Github, GDB, IntelliJ, Java, JUnit, Python, Linux, Unix, Valgrind,Vim
+- coding
+  1. Assembly
+  2. C/C++
+  3. Java
+  4. Python
+  5. Linux/Unix
+- ide
+  1. Atom
+  2. BlueJ
+  3. Github
+  4. GDB
+  5. IntelliJ
+  6. JUnit
+  7. Valgrind
+  8. Vim
 
 *My Favorite Code:*
 My favorite line of code is `git push` because thats when I know I'm almost done
