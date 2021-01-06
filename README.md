@@ -54,5 +54,9 @@ StackBase Calculator:
 *My Favorite Code:*
 My favorite line of code is `git push` because thats when I know I'm almost done
 
+*Things to do*
+- [] meet professor
+- [] bitcoin $100,000
+- [] buy more bitcoin
 
 [Top of The Page](https://github.com/jfalconi-cavallini/cse110_Lab1/blob/main/README.md#jose-falconis-user-page)
