@@ -4,7 +4,7 @@
 ### *** [Linked In](https://www.linkedin.com/in/jose-falconi-cavallini-9236b5156/) ***
 *Introduction:*
 
-![Image of Peru](cse110_Lab1/peru.jpg)
+![Image of Peru](peru.jpg)
 
 I was born in Peru on March 16,2000. I am a junior at UC San Diego studying Computer Science. Some of my favorite hobbies include going to the gym, hanging with the boys, and going on spontaneous adventures. I also really enjoy watching movies and/or programming videos when I am very bored. 
 
